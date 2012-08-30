@@ -5,3 +5,9 @@
  - Classes
  - View
  - ThirdParty
+ 
+ 
+ # GenerateModel
+ 
+ ## 根据json 来生成model中的 .h 和 . m文件
+  
